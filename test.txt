@@ -1,1 +1,2 @@
 Verificacion del commit
+agregué otra configuración
